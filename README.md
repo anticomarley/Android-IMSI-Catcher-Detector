@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center">Android IMSI-Catcher Detector</h1>
 
 <p align="center">
@@ -107,3 +108,7 @@ Although our app is fully Open Source, developing it is a lot of work and done b
 
 [![GPLv3+](http://gplv3.fsf.org/gplv3-127x51.png)](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector/blob/master/LICENSE)
 Please [contribute](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector/blob/development/.github/CONTRIBUTING.md) to this repository instead of rebranding our app. Thank you!
+=======
+# Android-IMSI-Catcher-Detector
+an IMSI catcher detector
+>>>>>>> upstream/master
